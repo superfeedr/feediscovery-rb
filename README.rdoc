@@ -1,4 +1,4 @@
-= feediscovery-rb
+= feediscovery
 
 Description goes here.
 
