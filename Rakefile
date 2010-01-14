@@ -11,6 +11,7 @@ begin
     gem.homepage = "http://github.com/julien51/feediscovery"
     gem.authors = ["julien"]
     gem.add_development_dependency "rspec", ">= 0"
+    gem.add_dependency "httparty"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new

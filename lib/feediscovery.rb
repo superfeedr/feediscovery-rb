@@ -1,6 +1,5 @@
 require 'httparty'
 
-
 module Feediscovery
   class Feed
     attr_reader :href, :title, :rel, :type
